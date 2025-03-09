@@ -1,7 +1,7 @@
 # [Моя страничка](https://zhkoss.github.io/Repo_DS/)
 ------------------------------------------------------
 **Привет!** <br>
-**Меня зовут Константин Ж. Я data scientist.** <br>
+**Меня зовут Константин Житников. Я data scientist.** <br>
 **В данном репозитории лежат проекты, выполненные мной.** <br><br>
 ### [1. Проверка гипотез об активности и предпочтениях пользователей сервиса Яндекс.Музыка](https://github.com/zhkoss/Repo_DS/tree/main/Projects/0_Basic_python)
 ### [2. Исследование надежности заемщиков банка](https://github.com/zhkoss/Repo_DS/tree/main/Projects/1_Pre-processing)
