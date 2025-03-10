@@ -45,5 +45,5 @@
 Оценивая риск, например, отнести человека к классу 'террорист' или 'не террорист', лучше сделать ложноположительную оценку (FP) и проверить не террориста на наличие оружия, чем совершить ложноотрицательную оценку (FN) и пропустить человека с бомбой. ЗДесь выбираем метрику precition.
 
 ## Что использовано
-Python, Numpy, Pandas, Matplotlib, Scipy, Seaborn, Sklearn.
+Python, Numpy, Pandas, Matplotlib, Scipy, Seaborn, Sklearn. <br>
 А также: Phik (для корреляций), Patsy (dmatrices), statsmodels.stats.outliers_influence (для проверки на мультиколлинеарность).
